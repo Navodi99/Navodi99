@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navodi99&show_icons=true&locale=en&layout=compact" alt="navodi99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navodi99&show_icons=true&locale=en" alt="navodi99" /></p>
+<p>Hacktoberfest 2023</p>
+[![An image of @navodi99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/navodi99)](https://holopin.io/@navodi99)
